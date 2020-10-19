@@ -1,0 +1,45 @@
+{
+  "res": "true",
+  "data": [
+    {
+      "id": "1",
+      "courseNo": "course_0001",
+      "courseName": "Java SE程序设计",
+      "score": "3",
+      "courseHour": "48",
+      "term": "3"
+    },
+    {
+      "id": "2",
+      "courseNo": "course_0002",
+      "courseName": "Web编程基础",
+      "score": "1",
+      "courseHour": "32",
+      "term": "4"
+    },
+    {
+      "id": "3",
+      "courseNo": "course_0002",
+      "courseName": "Web编程基础",
+      "score": "1",
+      "courseHour": "32",
+      "term": "4"
+    },
+    {
+      "id": "4",
+      "courseNo": "course_0002",
+      "courseName": "Web编程基础",
+      "score": "1",
+      "courseHour": "32",
+      "term": "4"
+    },
+    {
+      "id": "5",
+      "courseNo": "course_0002",
+      "courseName": "Web编程基础",
+      "score": "1",
+      "courseHour": "32",
+      "term": "4"
+    }
+  ]
+}
